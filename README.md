@@ -1,4 +1,4 @@
-# 👋 Xin chào! Mình là **Phương Nam** – sinh viên Công nghệ thông tin với đam mê **An toàn thông tin** 🔐
+# 👋 Xin chào! Mình là **Phương Nam** – sinh viên Hệ thống thông tin với đam mê **An toàn hệ thống thông tin** 🔐
 
 <img align="right" src="https://media.giphy.com/media/3o7TKzfdVqQBOzEJ6w/giphy.gif" width="300"/>
 
